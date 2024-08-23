@@ -1,5 +1,3 @@
-Berikut adalah contoh **README.md** untuk proyek e-commerce Node.js dengan MySQL. Anda bisa menyesuaikannya lebih lanjut sesuai kebutuhan proyek Anda:
-
 # E-commerce Node.js dengan MySQL
 
 Proyek ini adalah aplikasi web e-commerce sederhana yang dibangun menggunakan Node.js, Express, Sequelize, dan MySQL. Aplikasi ini memungkinkan pengguna untuk melihat produk, menambah produk ke keranjang belanja, dan melakukan checkout.
@@ -103,5 +101,5 @@ Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file `LICENSE` untuk
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan lebih lanjut, jangan ragu untuk menghubungi kami di [email@example.com].
+Jika Anda memiliki pertanyaan atau membutuhkan bantuan lebih lanjut, jangan ragu untuk menghubungi kami di [fajarjulyana1@gmail.com].
 
