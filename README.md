@@ -17,8 +17,8 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi di 
 1. **Clone repositori ini:**
 
     ```bash
-    git clone https://github.com/username/e-commerce-nodejs-mysql.git
-    cd e-commerce-nodejs-mysql
+    git clone https://github.com/fajarjulyana/e-commerce-nodejs-mysql-bootstraps.git
+    cd e-commerce-nodejs-mysql-bootstraps
     ```
 
 2. **Instal dependensi:**
